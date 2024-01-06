@@ -25,7 +25,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definitelynotanassassin&label=Profile%20views&color=000000&style=flat" alt="definitelynotanassassin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=definitelynotanassassin" alt="definitelynotanassassin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=definitelynotanassassin&theme=onedark" alt="definitelynotanassassin" /></a> </p>
 
 - 👨‍💻 I'm passionate about creating scallable applications using Django and JavaScript Frameworks.
 - 📚 I love to read, may it be some novels, news, or programming books. I'm a textual consumer and learner.

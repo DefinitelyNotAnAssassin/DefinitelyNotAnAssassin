@@ -32,7 +32,7 @@
 - 🌳 Outside programming, I'm a student leader in charge to make decisions that will benefit the students.
 - 🤝🏽 I'm also actively doing outreach programs that aimed to teach and share Digital Information Literacy, Website Generation, and etc to the residents of a provincial area.
 - 🤟🏼 I ***LOVE*** talking about anything tech, if you have some topics you want to discuss then Im always down for a conversation or two at my socials.
-
+- 💼 I'm open for open source collaboration, freelance projects, and etc. Don't hesitate to drop a DM.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/winmarimanzano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winmarimanzano" height="30" width="40" /></a>

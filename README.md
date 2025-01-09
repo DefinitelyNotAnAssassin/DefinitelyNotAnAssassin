@@ -21,7 +21,7 @@
 ```         
                                                                        
 <h1 align="center">Hi 👋, I'm Winmari Manzano</h1>
-<h3 align="center">An aspiring Web Developer from the Philippines. Currently taking Bachelors Degree in Information Technology</h3>
+<h3 align="center">Ab Freelance Fullstack Web Developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definitelynotanassassin&label=Profile%20views&color=000000&style=flat" alt="definitelynotanassassin" /> </p>
 
